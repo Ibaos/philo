@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bhumeau/Documents/Circle_3/philosophers/philo/build",
+  "command": "/usr/bin/cc -g -std=gnu11 -o CMakeFiles/philo.dir/sources/main.c.o -c /home/bhumeau/Documents/Circle_3/philosophers/philo/sources/main.c",
+  "file": "/home/bhumeau/Documents/Circle_3/philosophers/philo/sources/main.c",
+  "output": "CMakeFiles/philo.dir/sources/main.c.o"
+}
+]
